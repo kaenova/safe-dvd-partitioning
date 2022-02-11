@@ -11,3 +11,7 @@ Disini saya membuat aplikasi dimana user akan memasukkan input direktori yang in
 1. Lakukan `clone` repository github ini.
 2. Jalankan python dari `main.py`. Gausah ragu, saya menggunakan native library `python 3.7.2+`
 3. Ikuti prosedur yang diminta pada program tersebut.
+
+Example
+![image](https://user-images.githubusercontent.com/61568092/153565168-6e82041e-3da7-4426-a9f1-0721a063d182.png)
+
